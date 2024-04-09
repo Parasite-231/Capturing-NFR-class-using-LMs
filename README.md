@@ -1,1 +1,1 @@
-# nfr-classifier-using-RNN-LSTM-and-transformer-based-approach
+# NFR-classification-using-RNN-LSTM-and-Transformer-based-approach
