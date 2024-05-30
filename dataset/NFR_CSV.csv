@@ -955,6 +955,6 @@ Maintainability,Any changes of the computer hardware configuration and special c
 Operability,"The game must provide intuitive controls, real-time feedback, and in-game tutorials to ensure a seamless and user-friendly experience for players of all ages."
 Performance,"Performance requirements are stated in measurable values, such as rate, frequency, speeds and levels. The values specified must also be in some recognized unit."
 Security,The transferred data from the game to the backend will be heavily encrypted. 
-Usability,User’s each session time will be stored for credibility.
+Usability,User? each session time will be stored for credibility.
 Portability,The game can be played from mobile browser on pressing/selecting the play button of the landing page.
 Security,MD5 Hashing Algorithm will be used for encryption/Data Protection.
